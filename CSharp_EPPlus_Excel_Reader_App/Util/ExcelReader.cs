@@ -14,7 +14,7 @@ namespace CSharp_EPPlus_Excel_Reader_App.Util
             _worksheet = excelPackage.Workbook.Worksheets[sheetName];
         }
 
-        public string ReadCellValue(int rowNumber, int columnNumber)
+        public string GetCellValue(int rowNumber, int columnNumber)
         {
             return _worksheet.Cells[rowNumber, columnNumber].Value.ToString();
         }
