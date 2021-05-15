@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_EPPlus_Excel_Reader_App", "CSharp_EPPlus_Excel_Reader_App\CSharp_EPPlus_Excel_Reader_App.csproj", "{690A7D02-4E18-4C8A-B6E0-3D3152E4877F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690A7D02-4E18-4C8A-B6E0-3D3152E4877F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690A7D02-4E18-4C8A-B6E0-3D3152E4877F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690A7D02-4E18-4C8A-B6E0-3D3152E4877F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690A7D02-4E18-4C8A-B6E0-3D3152E4877F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

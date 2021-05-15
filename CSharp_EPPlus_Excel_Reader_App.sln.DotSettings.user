@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11d48d05_002D2389_002D46a7_002Db18a_002D0c2ca7ce7dd8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestExcelCellReading #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::690A7D02-4E18-4C8A-B6E0-3D3152E4877F::.NETCoreApp,Version=v3.1::CSharp_EPPlus_Excel_Reader_App.ExcelReadTest.TestExcelCellReading&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=df8b9e77_002Dd473_002D4cf0_002Db9d3_002D66d095f00264/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestExcelCellReading" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::690A7D02-4E18-4C8A-B6E0-3D3152E4877F::.NETCoreApp,Version=v3.1::CSharp_EPPlus_Excel_Reader_App.ExcelReadTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
